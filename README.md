@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá! Eu sou o Matheus Fraga 🖐️
+Blog Youtube Instagram Twitch
 
-<!--
-**DrCookie481/DrCookie481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologias que eu uso no meu dia
+html5 css js ts react nodejs
 
-Here are some ideas to get you started:
+💻 Desenvolvedor com mais de 10 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Últimos videos:
+Como ZUSTAND deixa seu projeto profissional
+Criando Aplicativo + IA profissional do zero
+Nunca foi tão fácil criar Dashboard com Next JS e Shadcn ui 🔥
+Aprendendo e conhecendo FIGMA - UI Design
