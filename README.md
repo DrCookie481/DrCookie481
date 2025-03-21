@@ -27,4 +27,3 @@ Atualmente, estou trabalhando em um **jogo inspirado no universo de Dragon Ball 
 
 Fique ligado para mais novidades! 🚀🔥  
 
-Se precisar de ajustes, me avise! 😃
